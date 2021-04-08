@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello Visitor!
+I'm jcxeq(for short | jc)
+I am currently learn to code but so far i know python, c# and a little c++
+Thanks for visiting my Github!
+All My Links to socials are below!
+    https://linktr.ee/jcxeq
 
 <!--
 **Jcxeq/jcxeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
