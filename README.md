@@ -1,4 +1,4 @@
-### Hello Visitor!
+# Hello Visitor!
 I'm jcxeq(for short | jc)
 I am currently learn to code but so far i know python, c# and a little c++
 Thanks for visiting my Github!
