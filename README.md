@@ -5,7 +5,7 @@
   <h3 align="center">jc</h3>
 
   <p align="center">
-    alpha. thats all
+    09. thats all
     <br />
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><strong>L</strong></a>
     <br />
